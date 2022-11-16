@@ -1,16 +1,28 @@
-### Hi there 👋
+# Bonjour a tous !
+### Je m'appelle Kévin Arlandis, Je suis développeur web autodidact.
 
-<!--
-**kevinarlandis/kevinarlandis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profil image](https://media-exp1.licdn.com/dms/image/C4D16AQEj85jqaN8Ecg/profile-displaybackgroundimage-shrink_350_1400/0/1668250251877?e=1674086400&v=beta&t=CDwHEJr-tiJZDUd1STV47seglzO9ryHEpAGrBz8bi_c)
 
-Here are some ideas to get you started:
+## Pourquoi développeur web ??
+<p>
+J'ai était attirer par se milieu du developpement web, san même m'en rendre compte j'était déjà sur ma premiere formation ! (oh my god!) </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tu sais développer quoi alors ? 
+<p> Je sais développé des projets entièrement de l'élaboration de la maquette au déploiement, en plus sa me passionne alors why not ?
+Je pense qu'apprendre avec passion renforce notre savoir ( après c'est mon avis)</p>
+
+<p align="center"> 
+
+<a href="https://www.linkedin.com/in/kevin-arlandis/">
+    <img alt="Linkedin " width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+  </a>
+  
+   <a href="https://arlandiskevin.netlify.app/">
+    <img alt="Mon site web" width="70px" src="https://img-0.journaldunet.com/a691ldWmyRJa7Nj9Om84GKZSC7M=/1500x/smart/37bb29883db94c988d8701b42ed00ee2/ccmcms-jdn/2034247.jpg" />
+  </a>
+  
+   <a href="mailto:arlandis.dev@hotmail.com?subject=Bonjour!">
+    <img alt="Mon mail" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" />
+  </a>
+  
+  </p>
