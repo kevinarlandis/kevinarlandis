@@ -1,7 +1,7 @@
 # Bonjour a tous !
 ### Je m'appelle Kévin Arlandis, Je suis développeur web autodidact.
 
-![profil image](https://media.licdn.com/dms/image/C4D16AQEj85jqaN8Ecg/profile-displaybackgroundimage-shrink_350_1400/0/1668250251877?e=1703116800&v=beta&t=3ahS3sT-1BYZT5T_vCvIXCEg2PLF2jEa2zBVOT5RXfI)
+![profil image](https://www.linkedin.com/in/kevin-arlandis/overlay/background-image/)
 
 ## Pourquoi développeur web ??
 <p>
