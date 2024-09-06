@@ -1,13 +1,25 @@
 # Bonjour a tous !
-### Je m'appelle Kévin Arlandis, Je suis développeur web autodidact.
+### Je m'appelle Kévin Arlandis.  Développeur Web Full-Stack | Passionné par la Technologie et l'Open Source.
 
 ![profil image](https://media.licdn.com/dms/image/v2/C4D16AQEj85jqaN8Ecg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668250252718?e=1730937600&v=beta&t=iI7lEze1yEgFEPpvAqDvkXesCG4dbDQHxN2hxvElNSU)
 
-Salut ! Je suis un développeur web chevronné avec une forte passion pour la création d'applications web performantes et intuitives. J'ai une solide expérience dans le développement Front-End et Back-End, maîtrisant les langages et technologies suivants :
+### Je suis un développeur web avec une forte passion pour la création d'applications web performantes et intuitives.
+J'ai une solide expérience dans le développement Front-End et Back-End, maîtrisant les langages et technologies suivants :
 
-Front-End : HTML5, CSS3, JavaScript (ES6+), React, Vue.js, SASS
-Back-End : Node.js, Express, PHP, Python (Django, Flask)
-Bases de données : MySQL, PostgreSQL, MongoDB
+Front-End : HTML5, CSS3, JavaScript (ES6+), React, Vue.js, SASS<br/>
+Back-End :  Python (Django, Flask)<br/>
+Bases de données : MySQL, PostgreSQL, MongoDB<br/>
+
+Je suis constamment à la recherche de nouvelles opportunités d'apprendre et de contribuer à des projets open source. 🚀
+<p align="center"> 
+💼 Projets récents :
+
+Un site vitrine avec HTML5 CSS3 et des animation avec JavaScript.
+Un blog personnel utilisant Django.
+<p align="center">
+📫 Contactez-moi : 
+    
+Si vous souhaitez discuter d'une collaboration ou d'un projet, n'hésitez pas à me contacter via GitHub ou par e-mail !
 <p align="center"> 
 
 <a href="https://www.linkedin.com/in/kevin-arlandis/">
