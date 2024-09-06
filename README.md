@@ -3,14 +3,11 @@
 
 ![profil image](https://media.licdn.com/dms/image/v2/C4D16AQEj85jqaN8Ecg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668250252718?e=1730937600&v=beta&t=iI7lEze1yEgFEPpvAqDvkXesCG4dbDQHxN2hxvElNSU)
 
-## Pourquoi développeur web ??
-<p>
-J'ai était attirer par se milieu du developpement web, san même m'en rendre compte j'était déjà sur ma premiere formation ! (oh my god!) </p>
+Salut ! Je suis un développeur web chevronné avec une forte passion pour la création d'applications web performantes et intuitives. J'ai une solide expérience dans le développement Front-End et Back-End, maîtrisant les langages et technologies suivants :
 
-## Tu sais développer quoi alors ? 
-<p> Je sais développé des projets entièrement de l'élaboration de la maquette au déploiement, en plus sa me passionne alors why not ?
-Je pense qu'apprendre avec passion renforce notre savoir ( après c'est mon avis)</p>
-
+Front-End : HTML5, CSS3, JavaScript (ES6+), React, Vue.js, SASS
+Back-End : Node.js, Express, PHP, Python (Django, Flask)
+Bases de données : MySQL, PostgreSQL, MongoDB
 <p align="center"> 
 
 <a href="https://www.linkedin.com/in/kevin-arlandis/">
